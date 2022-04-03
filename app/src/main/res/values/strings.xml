@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">pizzajera</string>
+    <string name="email">email</string>
+    <string name="queso">queso</string>
+    <string name="password">Password</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="producto">producto</string>
+    <string name="pizzas">pizzas</string>
+    <string name="bebidas">bebidas</string>
+    <string name="pizza">pizza</string>
+    <string name="ordpizza">ordpizza</string>
+    <string name="elegir_pizza">Elegir pizza</string>
+    <string name="peperoni">peperoni</string>
+    <string name="hawaiana">hawaiana</string>
+    <string name="atras">atras</string>
+    <string name="PEPSI">PEPSI</string>
+    <string name="manzanita">MANZANITA</string>
+    <string name="elegir_bebida">ELEGIR_BEBIDA</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="mirinda">mirinda</string>
+    <string name="MIRINDA">mirinda</string>
+    <string name="finalizarpedido2">FINALIZARPEDIDO2</string>
+    <string name="pedido">PEDIDO</string>
+    <string name="terminar_compra">TERMINAR COMPRA</string>
+    <string name="elegirotracomida">ELEGIROTRACOMIDA</string>
+
+</resources>
